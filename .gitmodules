@@ -1,0 +1,6 @@
+[submodule "frontendRepo"]
+	path = frontendRepo
+	url = https://github.com/KhalilMt98/code-coffin-front.git
+[submodule "backendRepo"]
+	path = backendRepo
+	url = https://github.com/KhalilMt98/code-coffin-backend.git
